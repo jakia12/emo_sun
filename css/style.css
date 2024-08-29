@@ -271,7 +271,7 @@ h3 {
 }
 
 @media screen and (max-width: 768px) {
-  .partners {
+  .partner_img {
     display: none;
   }
 }
